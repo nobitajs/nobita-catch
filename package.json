@@ -1,6 +1,6 @@
 {
   "name": "nobita-catch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "koa脚手架catch",
   "main": "lib/nobita-catch.js",
   "dependencies": {},
