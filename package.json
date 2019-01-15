@@ -1,16 +1,18 @@
 {
   "name": "nobita-catch",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "koa脚手架catch",
   "main": "lib/nobita-catch.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "4.17.10"
+  },
   "devDependencies": {},
   "files": [
     "lib"
   ],
-  "repository": { 
-    "type" : "git", 
-    "url" : "https://github.com/iamtang/nobita.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamtang/nobita.git"
   },
   "keywords": [
     "koa",
@@ -25,5 +27,7 @@
     "email": "303907720@qq.com"
   },
   "author": "JJ",
-  "license": "MIT"
+  "license": "MIT",
+  "_from": "nobita-catch@0.0.3",
+  "_resolved": "http://registry.npm.taobao.org/nobita-catch/download/nobita-catch-0.0.3.tgz"
 }
