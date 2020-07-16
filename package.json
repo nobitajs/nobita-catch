@@ -4,7 +4,7 @@
   "description": "koa脚手架catch",
   "main": "lib/nobita-catch.js",
   "dependencies": {
-    "lodash": "4.17.10"
+    "lodash": "4.17.19"
   },
   "devDependencies": {},
   "files": [
